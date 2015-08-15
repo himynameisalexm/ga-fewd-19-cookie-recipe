@@ -1,0 +1,27 @@
+body {
+    background-color: #FFE;
+    font-family: helvetica;
+    letter-spacing: 1px;
+    text-align: center;
+    align-content: center;
+}
+/* this is a cooment */ 
+h1 {
+ color:darkorange;
+    font-size: 80px;
+    text-decoration: underline;
+}
+
+h4 {
+ color:#887;   
+}
+
+
+
+a {
+    color: #900
+}
+
+img {
+ border: 10px dashed black;
+}
